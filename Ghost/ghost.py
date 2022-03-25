@@ -17,8 +17,8 @@ forest = pygame.transform.scale(image, (WIDTH, HEIGHT))
 ghost_img = pygame.transform.scale(image2, (100, 100))
 
 #starting values
-ghost_x_start = 100
-ghost_y_start = 100
+ghost_x_start = 500
+ghost_y_start = 500
 ghost_change = 0
 
 
